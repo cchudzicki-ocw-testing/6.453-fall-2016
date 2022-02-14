@@ -4,7 +4,11 @@ description: 'This resource contains information regarding  quantum optical comm
   Reading.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-453-quantum-optical-communication-fall-2016/6ef628770e655deffc093151e92ec9a2_MIT6_453F16_Lect15_Notes.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Readings and Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: 6.453 Quantum Optical Communication Reading 15
+type: OCWFile
 uid: 6ef62877-0e65-5def-fc09-3151e92ec9a2
 ---
