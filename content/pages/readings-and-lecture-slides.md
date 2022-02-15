@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Readings and Lecture Slides
-type: CourseSection
 uid: ea318bd7-40cf-dd0a-35a9-b8841f41c03e
 ---
 

@@ -9,6 +9,5 @@ parent_title: Readings and Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: Random Processes Review
-type: OCWFile
 uid: cc42ddeb-6ecb-ebf4-4489-373bacf631ea
 ---

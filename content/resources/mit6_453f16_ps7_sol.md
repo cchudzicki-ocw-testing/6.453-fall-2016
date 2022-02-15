@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 6.453 Quantum Optical Communication Problem Set 7 Solution
-type: OCWFile
 uid: c9840997-c0e5-37aa-e453-b242b2867e37
 ---

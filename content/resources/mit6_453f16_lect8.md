@@ -9,6 +9,5 @@ parent_title: Readings and Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 6.453 Quantum Optical Communication Lecture Notes 8
-type: OCWFile
 uid: 38027ef2-219f-411e-2a05-b2f7dfd3cfa3
 ---

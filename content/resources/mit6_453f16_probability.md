@@ -9,6 +9,5 @@ parent_title: Readings and Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: Probability Review
-type: OCWFile
 uid: c4e7aab8-cd34-5986-5b29-9748bffe6795
 ---

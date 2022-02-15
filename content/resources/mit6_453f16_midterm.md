@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: '6.453 Quantum Optical Communication: Midterm Exam'
-type: OCWFile
 uid: c9081ec5-764c-7d2a-8a13-8ffcdfb025b3
 ---
