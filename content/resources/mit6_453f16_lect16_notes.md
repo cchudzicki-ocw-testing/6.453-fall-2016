@@ -5,6 +5,7 @@ description: 'This resource contains information regarding  quantum optical comm
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-453-quantum-optical-communication-fall-2016/fe140977568cdb60cb9f3470e59ed8ac_MIT6_453F16_Lect16_Notes.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Readings and Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
