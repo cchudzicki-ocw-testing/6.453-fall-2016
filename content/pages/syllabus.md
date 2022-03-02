@@ -24,7 +24,7 @@ The preceding paragraph characterizes the course as an outgrowth of quantum opti
 Textbook
 --------
 
-There is no required text. {{< resource_link ea318bd7-40cf-dd0a-35a9-b8841f41c03e "Readings" >}} will be provided, along with suggestions for supplementary reading.
+There is no required text. {{% resource_link ea318bd7-40cf-dd0a-35a9-b8841f41c03e "Readings" %}} will be provided, along with suggestions for supplementary reading.
 
 Assignments and Grading
 -----------------------
