@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes readings and lecture slide for the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Lecture Slides
