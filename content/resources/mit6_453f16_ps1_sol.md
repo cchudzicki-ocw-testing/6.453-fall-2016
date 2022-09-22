@@ -5,6 +5,7 @@ file: /courses/6-453-quantum-optical-communication-fall-2016/d471a7e2cdfc8b46b12
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
